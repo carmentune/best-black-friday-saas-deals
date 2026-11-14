@@ -148,6 +148,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Wrike** | Versatile project management and collaboration workspace. | [*[Deal TBA]*](https://get.wrike.com/try-for-free) |
 | **Signable** | Simple and secure electronic signature solution. | [*[Deal TBA]*](https://try.signable.co.uk/try-for-free) |
 | **Proton** | Privacy-first encrypted email and VPN services. | [*[Deal TBA]*](https://now.getproton.me/4fqhzkz1ve4y-ojmzz6) |
+| **Scanify** | Checks links, files, QR codes and IPs for scams and malware before your team opens them. | [50% off Lifetime Pro ($29 → $14.50), code `BLACKFRIDAY`, Nov 10–Dec 9](https://scanify.to/pricing) |
 | **Miro** | Collaborative digital workspace and online whiteboard. | [*[Deal TBA]*](https://ps.miro-affiliate.com/deals) |
 
 ## 🎓 Learning & Online Courses
