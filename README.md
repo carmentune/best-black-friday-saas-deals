@@ -66,6 +66,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **InMotion Hosting** | Fast, reliable shared and dedicated web hosting. | [*[Deal TBA]*](https://connect.inmotionhosting.com/deal) |
 | **Plesk** | WebOps platform and server management control panel. | [*[Deal TBA]*](https://try.plesk.com/coupon) |
 | **Kinsta** | Fast, secure, feature-rich managed hosting for WordPress, secured by Cloudflare. | [3 months free on annual plans / 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/?kaid=JMUAXHHCMJDL) |
+| **own.page** | Not another link in bio: a personal website built from live widgets, on your own domain. | [40% off Pro, 30% off Business, first year of yearly plans (Nov 20 – 30)](https://own.page/pricing?utm_source=carmentune-bf&utm_medium=deal_list&utm_campaign=black_week_2026) |
 
 ## 🔍 SEO, Analytics & Advertising
 
