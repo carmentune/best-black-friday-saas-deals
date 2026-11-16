@@ -79,6 +79,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Ahrefs Webmaster Tools** | Site audit and backlink checker for verified site owners. | [Free tier](https://ahrefs.com/awt) |
 | **AgencyAnalytics** | Automated reporting software for marketing agencies. | [*[Deal TBA]*](https://try.agencyanalytics.com/free-trial) |
 | **Brand24** | AI-driven social listening and brand management tool. | [*[Deal TBA]*](https://try.brand24.com/voucher) |
+| **Outpublished** | Shows every page your competitors have that you don't, tells you the day they publish a new one, and writes the brief for what to do first. | [40% off any plan, monthly or yearly, kept while you stay subscribed, first 150 accounts, no code, Nov 20 - Dec 4](https://outpublished.com/black-friday) |
 
 ## 🎨 Design & Video Creators
 
