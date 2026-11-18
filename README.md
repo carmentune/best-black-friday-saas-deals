@@ -117,6 +117,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Wovo** | One MCP that turns any AI into a multi-device agent across all your computers. | [50% off Pro and Max yearly (Pro $144 → $72/yr, Max $348 → $174/yr), auto-applied, no code, through Dec 15](https://wovo.one/?ref=carmentune2026#pricing) |
 | **GetYouTubeTranscript** | YouTube transcript API and MCP server for AI agents, plus a Chrome extension and web tool. | [Lifetime access $149 one-time (3,000 credits/month, first 100 buyers) or 30% off the first year of Annual ($54 → $37.80) with code BF26GYT, until Dec 10](https://getyoutubetranscript.com/pricing) |
 | **Wishbar** | Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget. | [50% off every one-time licence, no code: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34, Nov 16 - Dec 7](https://wishbar.app/black-friday?ref=carmentune) |
+| **Social Fetch** | Public social data API and MCP server for TikTok, Instagram, YouTube, X, Reddit and LinkedIn. | [Double credits on every plan](https://www.socialfetch.dev/black-friday) |
 
 ## 📞 Communication & VoIP
 
