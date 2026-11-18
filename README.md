@@ -24,21 +24,21 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **HubSpot** | Inbound marketing, sales pipelines, and customer service suite. | [Up to 45% off annual plans](https://go.try-hubspot.com/promo) |
+| **HubSpot** | Inbound marketing, sales pipelines, and customer service suite. | [Up to 65% off Starter plan (limited time)](https://go.try-hubspot.com/promo) |
 | **ActiveCampaign** | Email marketing automation and CRM platform. | [40% off for new subscribers](https://try.activecampaign.com/prices) |
 | **Pipedrive** | Sales-focused CRM and pipeline tracking tool. | [35% off annual plans](https://aff.trypipedrive.com/9n5kxf7y1g5d) |
-| **Seamless.AI** | Real-time B2B contact and company lead search engine. | [*[Deal TBA]*](https://get.seamless.ai/discount) |
+| **Seamless.AI** | Real-time B2B contact and company lead search engine. | [*[Up to 28% off annual subscriptions]*](https://get.seamless.ai/discount) |
 | **Tweetfull** | X / Twitter growth and audience automation utility. | [*[Deal TBA]*](https://tweetfull.pxf.io/vDk57N) |
 | **Chatwoot** | Customer engagement and omni-channel support platform. | [Free / Self-hosted](https://www.chatwoot.com) |
 | **Listmonk** | High-performance newsletter and mailing list manager. | [Free / Self-hosted](https://listmonk.app) |
 | **Cal.com** | Open-source scheduling infrastructure and booking tool. | [Free / Open Core](https://cal.com) |
-| **Lusha** | B2B contact database and sales intelligence platform. | [*[Deal TBA]*](https://partnerstack.lusha.com/pkg6s1a4597a-omvn4r) |
-| **GetResponse** | Comprehensive email marketing and automation software. | [*[Deal TBA]*](https://try.getresponsetoday.com/coupon) |
+| **Lusha** | B2B contact database and sales intelligence platform. | [*[35% off annual subscriptions (Holiday Special) or up to 40% off the Pro Annual plan.]*](https://partnerstack.lusha.com/pkg6s1a4597a-omvn4r) |
+| **GetResponse** | Comprehensive email marketing and automation software. | [*[30% off yearly plans and 15% off monthly plans (valid November 20 – December 2)]*](https://try.getresponsetoday.com/coupon) |
 | **Reply.io** | AI-powered sales engagement and cold outreach platform. | [*[Deal TBA]*](https://get.reply.io/coupon) |
 | **Amplemarket** | All-in-one revenue platform for B2B sales. | [*[Deal TBA]*](https://grow.amplemarket.com/try-for-free) |
 | **Book Your Data** | Accurate B2B email lists and contact database. | [*[Deal TBA]*](https://join.bookyourdata.com/discount) |
 | **Uniqode** | Enterprise QR code generator and management platform. | [*[Deal TBA]*](https://try.uniqode.com/coupon) |
-| **Vista Social** | Advanced social media management and scheduling tool. | [*[Deal TBA]*](https://join.vistasocial.com/discount) |
+| **Vista Social** | Advanced social media management and scheduling tool. | [*[20% off for annual billing]*](https://join.vistasocial.com/discount) |
 | **SyncSignature** | Email signature management for Google Workspace and Microsoft 365, with banner campaigns and click tracking. | [50% off Teams: 2 years for the price of 1 ($180 for 24 months), no code, Nov 10 - Dec 4](https://syncsignature.com/?utm_source=carmentune&utm_medium=bf-listicle&utm_campaign=bfcm26) |
 | **Nuelink** | Agentic social media scheduling and automation for 12 platforms. | [50% off yearly plans (6 months free), or 25% off your first 3 monthly payments with code BFCM26, Nov 6 - Nov 30](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=carmentune_black_friday_saas_deals) |
 
@@ -47,7 +47,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | Platform | Description | 2026 Deal |
 |---|---|---|
 | **Shopify** | Complete e-commerce commerce platform and point-of-sale system. | [*[Deal TBA]*](https://shopify.pxf.io/5gr3Pb) |
-| **AliDropship** | Automated dropshipping plugin and store builder for WordPress. | [*[Deal TBA]*](https://get.alidrop.co/coupon) |
+| **AliDropship** | Automated dropshipping plugin and store builder for WordPress. | [*[Up to 25% off select plugins with code EXPRESS25 or 15% off with code MERCURY15]*](https://get.alidrop.co/coupon) |
 | **Printify** | Print-on-demand fulfillment network for automated merchandise. | [*[Deal TBA]*](https://try.printify.com/coupon-code) |
 
 ## 🌐 Website Builders & Hosting
@@ -57,33 +57,34 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Elementor Pro** | Drag-and-drop visual page builder for WordPress. | [Up to 40% off](https://be.elementor.com/visit/?bta=204490&nci=5352) |
 | **Hostinger** | Managed web hosting, VPS, and cloud infrastructure. | [Up to 87% off + 10% off with code BLACKFRIDAY](https://www.hostg.xyz/SHI0u) |
 | **ClickFunnels** | Sales funnel builder and conversion marketing software. | [Scale plan for $99/3mo](https://www.clickfunnels.com/pricing?aff=plans) |
-| **Leadpages** | High-converting landing page and lead capture builder. | [*[Deal TBA]*](https://try.leadpages.com/iycxgq5f3u37-pricing) |
+| **Leadpages** | High-converting landing page and lead capture builder. | [*[Up to 60% off annual plans, including $300 off the Pro Plan.]*](https://try.leadpages.com/iycxgq5f3u37-pricing) |
 | **Bluehost** | WordPress-recommended shared and cloud web hosting. | [*[Up to 25% off hosting & AI bundles]*](https://bluehost.sjv.io/5kEWvn) |
-| **HostGator** | Shared hosting, dedicated servers, and domain services. | [*[Deal TBA]*](https://hostgator.pvxt.net/VO9JMR) |
+| **HostGator** | Shared hosting, dedicated servers, and domain services. | [*[Extra 15% off one eligible 1-year product, or 20% off two eligible 1-year products]*](https://hostgator.pvxt.net/VO9JMR) |
 | **Coolify** | Self-hosted, privacy-first alternative to Heroku/Vercel/Netlify. | [Free / Self-hosted](https://coolify.io) |
 | **Ghost** | Modern publishing platform for blogs, newsletters, and subscriptions. | [Free / Open Core](https://ghost.org) |
-| **Gravity Forms** | Advanced drag-and-drop form builder for WordPress. | [*[Deal TBA]*](https://try.gravity.com/coupon) |
-| **InMotion Hosting** | Fast, reliable shared and dedicated web hosting. | [*[Deal TBA]*](https://connect.inmotionhosting.com/deal) |
+| **Gravity Forms** | Advanced drag-and-drop form builder for WordPress. | [*[40% off Gravity Forms Elite and Gravity Flow Ultimate (valid November 23 – December 1)]*](https://try.gravity.com/coupon) |
+| **InMotion Hosting** | Fast, reliable shared and dedicated web hosting. | [*[Up to 70% off shared hosting, up to 17% off dedicated servers, and 50% off cloud plans (valid through December 1)]*](https://connect.inmotionhosting.com/deal) |
 | **Plesk** | WebOps platform and server management control panel. | [*[Deal TBA]*](https://try.plesk.com/coupon) |
 | **Kinsta** | Fast, secure, feature-rich managed hosting for WordPress, secured by Cloudflare. | [3 months free on annual plans / 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/?kaid=JMUAXHHCMJDL) |
+| **Guard by OffSeq** | Website security and NIS2/GDPR compliance scanning, free scan without an account plus continuous monitoring. | [50% off the full report and the first month of monitoring, applied automatically, until Dec 1](https://guard.report/monitoring) |
 
 ## 🔍 SEO, Analytics & Advertising
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
 | **Semrush** | SEO audit, keyword analysis, competitor research, and PPC suite. | [Up to 17% off + 14-day trial](https://semrush.sjv.io/e4x4N1) |
-| **Surfer SEO** | Content intelligence and on-page optimization workflow engine. | [*[Deal TBA]*](https://get.surferseo.com/20-off-discount) |
+| **Surfer SEO** | Content intelligence and on-page optimization workflow engine. | [*[Up to 30% off annual plans]*](https://get.surferseo.com/20-off-discount) |
 | **TikTok Ads** | Ad management platform to reach audiences via short-form video. | [*[Deal TBA]*](https://getstartedtiktok.partnerlinks.io/jzbai1rr03yt) |
 | **Umami** | Privacy-respecting, lightweight alternative to Google Analytics. | [Free / Self-hosted](https://umami.is) |
 | **Ahrefs Webmaster Tools** | Site audit and backlink checker for verified site owners. | [Free tier](https://ahrefs.com/awt) |
 | **AgencyAnalytics** | Automated reporting software for marketing agencies. | [*[Deal TBA]*](https://try.agencyanalytics.com/free-trial) |
-| **Brand24** | AI-driven social listening and brand management tool. | [*[Deal TBA]*](https://try.brand24.com/voucher) |
+| **Brand24** | AI-driven social listening and brand management tool. | [*[3 months free when choosing annual billing]*](https://try.brand24.com/voucher) |
 
 ## 🎨 Design & Video Creators
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **AdCreative.ai** | AI-powered ad creative and banner generator. | [*[Deal TBA]*](https://free-trial.adcreative.ai/full-access) |
+| **AdCreative.ai** | AI-powered ad creative and banner generator. | [*[50% off all annual subscription plans using promo code BLACKFRIDAY50 at checkout (valid November 14 – November 27)]*](https://free-trial.adcreative.ai/full-access) |
 | **CapCut** | Video editing platform with automated AI creation tools. | [*[Deal TBA]*](https://capcutaffiliateprogram.pxf.io/pro) |
 | **ElevenLabs** | Realistic voice synthesis, text-to-speech, and voice cloning. | [Up to 55% off annual plans](https://try.elevenlabs.io/promo-code) |
 | **Gamma.app** | AI generation workspace for decks, documents, and web pages. | [*[Deal TBA]*](https://try.gamma.app/coupon) |
@@ -93,6 +94,8 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **FaceScreen** | Floating camera overlay with a text overlay and ring light for recordings and calls (Mac, iPhone, iPad). | [30% off with code FACESCREEN30, Nov 18 - Dec 2 (direct purchase from the website)](https://facescreen.app) |
 | **KeyScreen** | Shows the keys you press on screen for tutorials, streams, and demos (Mac). | [30% off with code KEYSCREEN30, Nov 18 - Dec 2 (direct purchase from the website)](https://keyscreen.app) |
 | **Sip** | Modern color picker for macOS to collect, organize, edit, and share colors and palettes. | [50% off with code `BLACKFRIDAY26`, Nov 27–29](https://sipapp.io/blackfriday/) and code `CYBERMONDAY26`, [Nov 30–Dec 2](https://sipapp.io/cybermonday/) |
+| **Renderly** | Video rendering API: send a JSON template and your data, get an MP4 back, with a browser editor and AI captions. | [30% off the first payment of a new Creator or Business subscription, code BLACKFRIDAY2026, Nov 27 - Dec 1](https://renderly.video/pricing) |
+| **ScreenSage Pro** | Native macOS screen recorder/editor with automatic cursor-following zoom and camera layouts for product demos. | [Up to 53% off one-time licenses (BFS2026L / BFS2026P), Nov 4–Dec 15](https://screensage.pro/bf2026?ref=carmentune2026) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
@@ -105,12 +108,14 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Tidio** | Live chat solution powered by integrated AI support agents. | [*[Deal TBA]*](https://tidio.pxf.io/ai) |
 | **Ollama** | Run large language models locally on macOS, Linux, and Windows. | [100% Free](https://ollama.com) |
 | **Dify** | Visual agent orchestration and LLM application development. | [Free / Self-hosted](https://dify.ai) |
-| **airSlate** | End-to-end document workflow and business automation. | [*[Deal TBA]*](https://partnerstack.signnow.com/coupons) |
+| **airSlate** | End-to-end document workflow and business automation. | [*[Save between $144 to $240 on yearly SignNow Starter and Business plans]*](https://partnerstack.signnow.com/coupons) |
 | **Emergent Labs** | Custom AI automation and enterprise LLM solutions. | [*[Deal TBA]*](https://get.emergent.sh/promo-code) |
 | **TypingMind** | Chat UI for ChatGPT, Claude, Gemini and more in one place, with MCP, AI agents and private local storage. | [60% off Lifetime Premium ($198 → $79), code BLACKFRIDAY2026, Nov 2 - Dec 15](https://www.typingmind.com/pricing) |
 | **Piloterr** | Web scraping API that handles headless browsers and rotates proxies for you. | [50% off for 3 months (code BLACKFRIDAY50)](https://www.piloterr.com/blackfriday) |
 | **MindPal** | Turn your expertise into AI agents and multi-agent workflows for your team, clients and audience. | [60% off the first year of annual plans, code BLACKFRIDAY2026, until Dec 11](https://mindpal.io/pricing) |
 | **Wovo** | One MCP that turns any AI into a multi-device agent across all your computers. | [50% off Pro and Max yearly (Pro $144 → $72/yr, Max $348 → $174/yr), auto-applied, no code, through Dec 15](https://wovo.one/?ref=carmentune2026#pricing) |
+| **GetYouTubeTranscript** | YouTube transcript API and MCP server for AI agents, plus a Chrome extension and web tool. | [Lifetime access $149 one-time (3,000 credits/month, first 100 buyers) or 30% off the first year of Annual ($54 → $37.80) with code BF26GYT, until Dec 10](https://getyoutubetranscript.com/pricing) |
+| **Wishbar** | Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget. | [50% off every one-time licence, no code: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34, Nov 16 - Dec 7](https://wishbar.app/black-friday?ref=carmentune) |
 
 ## 📞 Communication & VoIP
 
@@ -125,7 +130,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **Gravity** | Integrated merchant processing and business banking services. | [*[Deal TBA]*](https://try.gravity.com/coupon) |
+| **Gravity** | Integrated merchant processing and business banking services. | [*[40% off Gravity Forms Elite and Gravity Flow Ultimate (valid November 23 – December 1)]*](https://try.gravity.com/coupon) |
 | **BILL** | Automated financial operations and accounts payable. | [*[Deal TBA]*](https://referral.bill.com/promo) |
 | **Dext** | Accounting automation for data extraction and bookkeeping. | [15% off for 12 months](https://join.dext.com/coupon) |
 
@@ -133,7 +138,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **Monday.com** | Cloud work operating system for task tracking and projects. | [*[Deal TBA]*](https://try.monday.com/deals) |
+| **Monday.com** | Cloud work operating system for task tracking and projects. | [*[Up to 70% off CRM, automations, and project tools]*](https://try.monday.com/deals) |
 | **Deel** | International hiring, compliance, contractor contracts, and payroll. | [*[Deal TBA]*](https://get.deel.com/coupon) |
 | **Impact** | Global affiliate partnership tracking and commission management. | [*[Deal TBA]*](https://impact-referral-partnerships.sjv.io/dyg213) |
 | **AppFlowy** | Open-source workspace alternative to Notion. | [100% Free](https://appflowy.io) |
@@ -147,16 +152,20 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Passpack** | Secure team password manager and collaboration tool. | [*[Deal TBA]*](https://try.passpack.com/promo) |
 | **Wrike** | Versatile project management and collaboration workspace. | [*[Deal TBA]*](https://get.wrike.com/try-for-free) |
 | **Signable** | Simple and secure electronic signature solution. | [*[Deal TBA]*](https://try.signable.co.uk/try-for-free) |
-| **Proton** | Privacy-first encrypted email and VPN services. | [*[Deal TBA]*](https://now.getproton.me/4fqhzkz1ve4y-ojmzz6) |
-| **Scanify** | Checks links, files, QR codes and IPs for scams and malware before your team opens them. | [50% off Lifetime Pro ($29 → $14.50), code `BLACKFRIDAY`, Nov 10–Dec 9](https://scanify.to/pricing) |
-| **Miro** | Collaborative digital workspace and online whiteboard. | [*[Deal TBA]*](https://ps.miro-affiliate.com/deals) |
+| **Proton** | Privacy-first encrypted email and VPN services. | [*[40% off all annual Proton Workspace subscriptions]*](https://now.getproton.me/4fqhzkz1ve4y-ojmzz6) |
+| **Miro** | Collaborative digital workspace and online whiteboard. | [*[20% off annual business plans with promo codes like 1AK2D5IC or WELCOME20]*](https://ps.miro-affiliate.com/deals) |
+| **OffSeq Threat Radar** | Live CVE, CISA KEV and exploit intelligence with API, MCP server, SBOM scans and alerts. | [50% off the first month or first year of any plan, applied automatically, until Dec 1](https://radar.offseq.com/pricing) |
+| **OffSeq Breach** | Leaked-credential monitoring for your company domains across breach datasets, forums and Telegram. | [50% off the first billing period with code BLACK, until Dec 2](https://breach.offseq.com/en#pricing) |
+| **OffSeq Mirage** | Honeypot threat intelligence: run decoys and see who targets you, with STIX and MISP exports. | [50% off the first 3 months of any plan, code BFCM2026 pre-filled, until Nov 30](https://mirage.offseq.com/pricing) |
+| **OffSeq Pulse** | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. | [50% off the first year or month for new customers, applied automatically, until Dec 2](https://pulse.offseq.com/pricing) |
+| **DailyRemote** | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts. | [39% off Premium monthly, quarterly and yearly plans with code BFBNRTZSY, Nov 12 - Dec 1](https://dailyremote.com/get-started) |
 
 ## 🎓 Learning & Online Courses
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **Coursera** | Professional certificates and university-accredited degree courses. | [*[Deal TBA]*](https://coursera.pxf.io/EaYa0n) |
-| **Udemy** | Massive marketplace for tech, business, and development courses. | [*[Deal TBA]*](https://trk.udemy.com/homepage) |
+| **Coursera** | Professional certificates and university-accredited degree courses. | [*[40% off the first year of a Coursera Plus annual subscription]*](https://coursera.pxf.io/EaYa0n) |
+| **Udemy** | Massive marketplace for tech, business, and development courses. | [*[Courses heavily discounted down to $9.99 – $15.99 for Black Friday and Cyber Monday]*](https://trk.udemy.com/homepage) |
 | **Domestika** | Curated practical courses for designers, illustrators, and creatives. | [*[Deal TBA]*](https://domestika.sjv.io/eKxENX) |
 | **LearnWorlds** | Create, market, and sell online courses easily. | [*[Deal TBA]*](https://get.learnworlds.com/coupon) |
 
