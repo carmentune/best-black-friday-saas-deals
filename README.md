@@ -42,6 +42,9 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **SyncSignature** | Email signature management for Google Workspace and Microsoft 365, with banner campaigns and click tracking. | [50% off Teams: 2 years for the price of 1 ($180 for 24 months), no code, Nov 10 - Dec 4](https://syncsignature.com/?utm_source=carmentune&utm_medium=bf-listicle&utm_campaign=bfcm26) |
 | **Nuelink** | Agentic social media scheduling and automation for 12 platforms. | [50% off yearly plans (6 months free), or 25% off your first 3 monthly payments with code BFCM26, Nov 6 - Nov 30](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=carmentune_black_friday_saas_deals) |
 | **Mailzzy** | Email marketing for small businesses: templates, AI-drafted campaigns, A/B testing, segments and automations. | [70% off the first year (annual) or 60% off the first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
+| **PageTest** | AI-written headline, button and copy tests on your real visitors, with no code and no developer. | [83% off the first year with code BF2026 ($599 first year), Nov 20 - Dec 1, first 100 customers](https://pagetest.ai/black-friday) |
+| **Webinar Flow** | Automated webinars that run on a rolling schedule and answer questions as people watch. | [83% off the first year (Growth $159, Scale $399), Nov 20 - Dec 1, first 100 buyers](https://webinarflow.studio/black-friday) |
+| **Atelier Social** | AI-first social media studio: write a post once and publish it adapted to every platform, brand and client. | [83% off the first year, from $158, until Dec 31](https://ateliersocial.io/black-friday) |
 
 ## 🛒 E-commerce & Dropshipping
 
@@ -118,6 +121,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **GetYouTubeTranscript** | YouTube transcript API and MCP server for AI agents, plus a Chrome extension and web tool. | [Lifetime access $149 one-time (3,000 credits/month, first 100 buyers) or 30% off the first year of Annual ($54 → $37.80) with code BF26GYT, until Dec 10](https://getyoutubetranscript.com/pricing) |
 | **Wishbar** | Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget. | [50% off every one-time licence, no code: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34, Nov 16 - Dec 7](https://wishbar.app/black-friday?ref=carmentune) |
 | **Perisclaw** | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks, with full chat context. | [40% off the annual plan: $120/yr instead of $200, no code needed, Nov 27 - Dec 1](https://perisclaw.com/pricing?utm_source=github-carmentune&utm_medium=deal-listing&utm_campaign=cyber-monday-2026) |
+| **SaaS Toolkit** | AI chat, visitor identification, email follow-up and team alerts in one place, turning anonymous visitors into paying customers. | [83% off the first year with code BF2026 (Growth $59, Business $99), Nov 20 - Dec 1, first 100 buyers](https://saastoolkit.ai/black-friday) |
 
 ## 📞 Communication & VoIP
 
