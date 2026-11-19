@@ -80,6 +80,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Ahrefs Webmaster Tools** | Site audit and backlink checker for verified site owners. | [Free tier](https://ahrefs.com/awt) |
 | **AgencyAnalytics** | Automated reporting software for marketing agencies. | [*[Deal TBA]*](https://try.agencyanalytics.com/free-trial) |
 | **Brand24** | AI-driven social listening and brand management tool. | [*[3 months free when choosing annual billing]*](https://try.brand24.com/voucher) |
+| **Keyword Race** | App Store keyword research for indie iOS developers: see who competes for a keyword and which ones you can win. Free check, no account. | [40% off lifetime access, $59 → $35, one payment, no code needed, Nov 20 – Dec 2](https://keywordrace.com/?utm_source=carmentunebf) |
 
 ## 🎨 Design & Video Creators
 
