@@ -118,6 +118,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **GetYouTubeTranscript** | YouTube transcript API and MCP server for AI agents, plus a Chrome extension and web tool. | [Lifetime access $149 one-time (3,000 credits/month, first 100 buyers) or 30% off the first year of Annual ($54 → $37.80) with code BF26GYT, until Dec 10](https://getyoutubetranscript.com/pricing) |
 | **Wishbar** | Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget. | [50% off every one-time licence, no code: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34, Nov 16 - Dec 7](https://wishbar.app/black-friday?ref=carmentune) |
 | **Perisclaw** | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks, with full chat context. | [40% off the annual plan: $120/yr instead of $200, no code needed, Nov 27 - Dec 1](https://perisclaw.com/pricing?utm_source=github-carmentune&utm_medium=deal-listing&utm_campaign=cyber-monday-2026) |
+| **APIKO** | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | [10% extra API credits on every paid top-up; pay $100, get $110 in credits. Auto-applied. Ends Nov 27, 2026 at 11:59 p.m. Pacific Time.](https://apiko.app/) |
 
 ## 📞 Communication & VoIP
 
