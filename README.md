@@ -97,6 +97,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Sip** | Modern color picker for macOS to collect, organize, edit, and share colors and palettes. | [50% off with code `BLACKFRIDAY26`, Nov 27–29](https://sipapp.io/blackfriday/) and code `CYBERMONDAY26`, [Nov 30–Dec 2](https://sipapp.io/cybermonday/) |
 | **Renderly** | Video rendering API: send a JSON template and your data, get an MP4 back, with a browser editor and AI captions. | [30% off the first payment of a new Creator or Business subscription, code BLACKFRIDAY2026, Nov 27 - Dec 1](https://renderly.video/pricing) |
 | **ScreenSage Pro** | Native macOS screen recorder/editor with automatic cursor-following zoom and camera layouts for product demos. | [Up to 53% off one-time licenses (BFS2026L / BFS2026P), Nov 4–Dec 15](https://screensage.pro/bf2026?ref=carmentune2026) |
+| **Tutti** | Native macOS menu bar utility for routing audio to multiple outputs and controlling each app’s volume | [About 31% off Tutti Pro (US$12.99 → US$8.99, one-time for one Mac), no code needed, Nov 20 – Nov 30, 2026 (ends 23:59 PST)](https://tutti.barrybarrywu.com/#pricing) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
