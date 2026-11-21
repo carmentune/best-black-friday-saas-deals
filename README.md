@@ -126,6 +126,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Noviscan** | Face recognition for your IP cameras: faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up (Windows, macOS or Linux). | [30-day free trial of Noviscan Premium with the code BLACKFRIDAY26, then €9.90 a month, Nov 23 - Nov 30](https://secufor.net/black-week/) |
 | **TranslateManga** | AI manga translator: read raw manga, manhwa and webtoons in your language, with the text translated inside the original speech bubbles. | [40% off: plans from $6/mo, no code needed (Standard & Pro, billed yearly, first year; until Dec 1)](https://translatemanga.net/?pricing_mode=annual#pricing) |
 | **Sabi** | AI employee for small business owners that you text like a person: answers your email, runs your calendar, follows up with leads and posts to your social media. | [50% off 6 months of Sabi Pro: $495 instead of $995, no code needed, Nov 20 - Nov 30](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=carmentune) |
+| **Outlier** | Mac app that runs open AI models on your own Mac, offline, with a free version and a coding agent in Pro. | [Black Friday sale: $16.99 once through December 2. Then $39.](https://outlier.host/pricing/?ref=carmentune) |
 
 ## 📞 Communication & VoIP
 
