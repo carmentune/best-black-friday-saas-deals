@@ -70,6 +70,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Plesk** | WebOps platform and server management control panel. | [*[Deal TBA]*](https://try.plesk.com/coupon) |
 | **Kinsta** | Fast, secure, feature-rich managed hosting for WordPress, secured by Cloudflare. | [3 months free on annual plans / 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/?kaid=JMUAXHHCMJDL) |
 | **Guard by OffSeq** | Website security and NIS2/GDPR compliance scanning, free scan without an account plus continuous monitoring. | [50% off the full report and the first month of monitoring, applied automatically, until Dec 1](https://guard.report/monitoring) |
+| **Zerodirs** | SEO-first directory boilerplate built for AI coding agents and Cloudflare with $0/mo hosting. | [73% off for lifetime payment, applied automatically, until Dec 20](https://zerodirs.com/#pricing) |
 
 ## 🔍 SEO, Analytics & Advertising
 
