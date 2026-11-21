@@ -42,6 +42,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **SyncSignature** | Email signature management for Google Workspace and Microsoft 365, with banner campaigns and click tracking. | [50% off Teams: 2 years for the price of 1 ($180 for 24 months), no code, Nov 10 - Dec 4](https://syncsignature.com/?utm_source=carmentune&utm_medium=bf-listicle&utm_campaign=bfcm26) |
 | **Nuelink** | Agentic social media scheduling and automation for 12 platforms. | [50% off yearly plans (6 months free), or 25% off your first 3 monthly payments with code BFCM26, Nov 6 - Nov 30](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=carmentune_black_friday_saas_deals) |
 | **Mailzzy** | Email marketing for small businesses: templates, AI-drafted campaigns, A/B testing, segments and automations. | [70% off the first year (annual) or 60% off the first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
+| **Pitchlist** | Local business leads by city and business type with phone, address and rating, delivered as CSV, XLSX or JSON, with Claude Code integration support. | [60% off every lead pack with code BLACKFRIDAY60, until Nov 30](https://pitchlist.serpwrap.com) |
 
 ## 🛒 E-commerce & Dropshipping
 
@@ -84,6 +85,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Brand24** | AI-driven social listening and brand management tool. | [*[3 months free when choosing annual billing]*](https://try.brand24.com/voucher) |
 | **Appfigures** | ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates. | [50% off monthly or annual plans for 12 months with code BF2650 (up to $200/mo off), Nov 23 - Nov 30](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=carmentune) |
 | **RightBlogger** | AI blog writer that publishes to WordPress and other CMSs and flags older posts to fix from Search Console data. | [*[50% off every annual plan for life, no code needed, until Dec 1]*](https://rightblogger.com/pricing?offer=bf2026&utm_source=carmentune) |
+| **SerpWrap** | SERP API returning structured JSON from live search results, with pay-once credit packs and no subscription. | [40% off every credit pack with code BLACKF40, until Nov 30](https://serpwrap.com) |
 
 ## 🎨 Design & Video Creators
 
