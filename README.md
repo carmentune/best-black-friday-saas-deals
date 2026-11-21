@@ -103,6 +103,8 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **ScreenSage Pro** | Native macOS screen recorder/editor with automatic cursor-following zoom and camera layouts for product demos. | [Up to 53% off one-time licenses (BFS2026L / BFS2026P), Nov 4–Dec 15](https://screensage.pro/bf2026?ref=carmentune2026) |
 | **YIX** | Create and edit images and generate videos from text or photos in your browser. | [50% off the first month of all monthly plans, applied automatically. Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive). Starter $9.95 → $19.90/mo, Pro $24.95 → $49.90/mo, Max $49.95 → $99.90/mo (USD).](https://yix.ai/pricing) |
 
+| **Oil Studio** | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | [20% off with code `BFCM2026` (extra 20% off $39 launch price → $31.20; regular $49), Nov 20 – Dec 2, 2026](https://studio.oiloil.org/en/) |
+
 ## 🤖 Automation, Chatbots & AI Tools
 
 | Platform | Description | 2026 Deal |
