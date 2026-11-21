@@ -50,6 +50,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Shopify** | Complete e-commerce commerce platform and point-of-sale system. | [*[Deal TBA]*](https://shopify.pxf.io/5gr3Pb) |
 | **AliDropship** | Automated dropshipping plugin and store builder for WordPress. | [*[Up to 25% off select plugins with code EXPRESS25 or 15% off with code MERCURY15]*](https://get.alidrop.co/coupon) |
 | **Printify** | Print-on-demand fulfillment network for automated merchandise. | [*[Deal TBA]*](https://try.printify.com/coupon-code) |
+| **BundleWP** | Complete business software bundle — all 11 products in one package: ShopKart e-commerce system, FoodFleet restaurant system, Billify billing software, WordPress plugins & tools. Lifetime access, license keys delivered automatically. | [$129 for all 11 products (regular total $1,029, 87% off) with code BUNDLE129 — Black Friday offer ends 1 December 2026](https://bundlewp.com/complete-business-software-bundle/) |
 
 ## 🌐 Website Builders & Hosting
 
@@ -57,6 +58,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 |---|---|---|
 | **Elementor Pro** | Drag-and-drop visual page builder for WordPress. | [Up to 40% off](https://be.elementor.com/visit/?bta=204490&nci=5352) |
 | **Hostinger** | Managed web hosting, VPS, and cloud infrastructure. | [Up to 87% off + 10% off with code BLACKFRIDAY](https://www.hostg.xyz/SHI0u) |
+| **UltaHost** | Fast, secure shared, VPS, and dedicated web hosting with NVMe SSD and free DDoS protection. | [Up to 70% off hosting (lock your price for 3 years)](https://partnerstack.ultahost.com/coupon) |
 | **ClickFunnels** | Sales funnel builder and conversion marketing software. | [Scale plan for $99/3mo](https://www.clickfunnels.com/pricing?aff=plans) |
 | **Leadpages** | High-converting landing page and lead capture builder. | [*[Up to 60% off annual plans, including $300 off the Pro Plan.]*](https://try.leadpages.com/iycxgq5f3u37-pricing) |
 | **Bluehost** | WordPress-recommended shared and cloud web hosting. | [*[Up to 25% off hosting & AI bundles]*](https://bluehost.sjv.io/5kEWvn) |
@@ -80,6 +82,8 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Ahrefs Webmaster Tools** | Site audit and backlink checker for verified site owners. | [Free tier](https://ahrefs.com/awt) |
 | **AgencyAnalytics** | Automated reporting software for marketing agencies. | [*[Deal TBA]*](https://try.agencyanalytics.com/free-trial) |
 | **Brand24** | AI-driven social listening and brand management tool. | [*[3 months free when choosing annual billing]*](https://try.brand24.com/voucher) |
+| **Appfigures** | ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates. | [50% off monthly or annual plans for 12 months with code BF2650 (up to $200/mo off), Nov 23 - Nov 30](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=carmentune) |
+| **RightBlogger** | AI blog writer that publishes to WordPress and other CMSs and flags older posts to fix from Search Console data. | [*[50% off every annual plan for life, no code needed, until Dec 1]*](https://rightblogger.com/pricing?offer=bf2026&utm_source=carmentune) |
 
 ## 🎨 Design & Video Creators
 
@@ -97,6 +101,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Sip** | Modern color picker for macOS to collect, organize, edit, and share colors and palettes. | [50% off with code `BLACKFRIDAY26`, Nov 27–29](https://sipapp.io/blackfriday/) and code `CYBERMONDAY26`, [Nov 30–Dec 2](https://sipapp.io/cybermonday/) |
 | **Renderly** | Video rendering API: send a JSON template and your data, get an MP4 back, with a browser editor and AI captions. | [30% off the first payment of a new Creator or Business subscription, code BLACKFRIDAY2026, Nov 27 - Dec 1](https://renderly.video/pricing) |
 | **ScreenSage Pro** | Native macOS screen recorder/editor with automatic cursor-following zoom and camera layouts for product demos. | [Up to 53% off one-time licenses (BFS2026L / BFS2026P), Nov 4–Dec 15](https://screensage.pro/bf2026?ref=carmentune2026) |
+| **YIX** | Create and edit images and generate videos from text or photos in your browser. | [50% off the first month of all monthly plans, applied automatically. Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive). Starter $9.95 → $19.90/mo, Pro $24.95 → $49.90/mo, Max $49.95 → $99.90/mo (USD).](https://yix.ai/pricing) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
@@ -118,6 +123,9 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **GetYouTubeTranscript** | YouTube transcript API and MCP server for AI agents, plus a Chrome extension and web tool. | [Lifetime access $149 one-time (3,000 credits/month, first 100 buyers) or 30% off the first year of Annual ($54 → $37.80) with code BF26GYT, until Dec 10](https://getyoutubetranscript.com/pricing) |
 | **Wishbar** | Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget. | [50% off every one-time licence, no code: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34, Nov 16 - Dec 7](https://wishbar.app/black-friday?ref=carmentune) |
 | **Perisclaw** | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks, with full chat context. | [40% off the annual plan: $120/yr instead of $200, no code needed, Nov 27 - Dec 1](https://perisclaw.com/pricing?utm_source=github-carmentune&utm_medium=deal-listing&utm_campaign=cyber-monday-2026) |
+| **Noviscan** | Face recognition for your IP cameras: faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up (Windows, macOS or Linux). | [30-day free trial of Noviscan Premium with the code BLACKFRIDAY26, then €9.90 a month, Nov 23 - Nov 30](https://secufor.net/black-week/) |
+| **TranslateManga** | AI manga translator: read raw manga, manhwa and webtoons in your language, with the text translated inside the original speech bubbles. | [40% off: plans from $6/mo, no code needed (Standard & Pro, billed yearly, first year; until Dec 1)](https://translatemanga.net/?pricing_mode=annual#pricing) |
+| **Sabi** | AI employee for small business owners that you text like a person: answers your email, runs your calendar, follows up with leads and posts to your social media. | [50% off 6 months of Sabi Pro: $495 instead of $995, no code needed, Nov 20 - Nov 30](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=carmentune) |
 | **APIKO** | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | [10% extra API credits on every paid top-up; pay $100, get $110 in credits. Auto-applied. Ends Nov 27, 2026 at 11:59 p.m. Pacific Time.](https://apiko.app/) |
 
 ## 📞 Communication & VoIP
@@ -143,6 +151,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 |---|---|---|
 | **Bitdefender** | Business cybersecurity, endpoint protection, and threat defense suite (GravityZone). | [70% off all Bitdefender GravityZone products](https://get.bitdefender.com/black-friday) |
 | **Monday.com** | Cloud work operating system for task tracking and projects. | [*[Up to 70% off CRM, automations, and project tools]*](https://try.monday.com/deals) |
+| **Optery** | Personal and business data removal service that scans and opts you out of hundreds of data broker sites. | [20% off with code FALL2026 (plus 17% off annual plans)](https://get.optery.com/promo) |
 | **Deel** | International hiring, compliance, contractor contracts, and payroll. | [*[Deal TBA]*](https://get.deel.com/coupon) |
 | **Impact** | Global affiliate partnership tracking and commission management. | [*[Deal TBA]*](https://impact-referral-partnerships.sjv.io/dyg213) |
 | **AppFlowy** | Open-source workspace alternative to Notion. | [100% Free](https://appflowy.io) |
