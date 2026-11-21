@@ -102,6 +102,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Renderly** | Video rendering API: send a JSON template and your data, get an MP4 back, with a browser editor and AI captions. | [30% off the first payment of a new Creator or Business subscription, code BLACKFRIDAY2026, Nov 27 - Dec 1](https://renderly.video/pricing) |
 | **ScreenSage Pro** | Native macOS screen recorder/editor with automatic cursor-following zoom and camera layouts for product demos. | [Up to 53% off one-time licenses (BFS2026L / BFS2026P), Nov 4–Dec 15](https://screensage.pro/bf2026?ref=carmentune2026) |
 | **YIX** | Create and edit images and generate videos from text or photos in your browser. | [50% off the first month of all monthly plans, applied automatically. Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive). Starter $9.95 → $19.90/mo, Pro $24.95 → $49.90/mo, Max $49.95 → $99.90/mo (USD).](https://yix.ai/pricing) |
+| **Seedance AI Video Generator** | AI video and image generator with Seedance 2.5, Kling, Veo, Hailuo, Seedream and GPT Image in one workspace. No queue, no watermark. | [50% off Pro with annual billing: $14.5/mo billed yearly ($174/yr) instead of $29/mo, auto-applied when you choose Yearly, no code; renews at the same yearly price](https://www.seeddance.io/pricing) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
