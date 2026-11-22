@@ -84,6 +84,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Brand24** | AI-driven social listening and brand management tool. | [*[3 months free when choosing annual billing]*](https://try.brand24.com/voucher) |
 | **Appfigures** | ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates. | [50% off monthly or annual plans for 12 months with code BF2650 (up to $200/mo off), Nov 23 - Nov 30](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=carmentune) |
 | **RightBlogger** | AI blog writer that publishes to WordPress and other CMSs and flags older posts to fix from Search Console data. | [*[50% off every annual plan for life, no code needed, until Dec 1]*](https://rightblogger.com/pricing?offer=bf2026&utm_source=carmentune) |
+| **Waitlyze** | Waitlist platform for founders and creators with referral rewards, launch email automation, and signup analytics. | [40% off Pro Annual for the first year with code BFCM2026 ($119 → $71.40), renews at $119/year through Dec 3](https://waitlyze.com/pricing) |
 
 ## 🎨 Design & Video Creators
 
