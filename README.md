@@ -186,6 +186,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Udemy** | Massive marketplace for tech, business, and development courses. | [*[Courses heavily discounted down to $9.99 – $15.99 for Black Friday and Cyber Monday]*](https://trk.udemy.com/homepage) |
 | **Domestika** | Curated practical courses for designers, illustrators, and creatives. | [*[Deal TBA]*](https://domestika.sjv.io/eKxENX) |
 | **LearnWorlds** | Create, market, and sell online courses easily. | [*[Deal TBA]*](https://get.learnworlds.com/coupon) |
+| **pwn.guide** | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | [20% off every plan forever, renewals and lifetime plans included, with code BLKFRI20 (card checkout), Nov 1 - Dec 5](https://pwn.guide/pricing) |
 
 ---
 *Disclaimer: Some of the URLs in this repository may be affiliate links. If you purchase through them, we may earn a small commission at no additional cost to you. We only list verified, reputable tools.*
