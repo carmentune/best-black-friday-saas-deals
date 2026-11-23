@@ -186,6 +186,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Udemy** | Massive marketplace for tech, business, and development courses. | [*[Courses heavily discounted down to $9.99 – $15.99 for Black Friday and Cyber Monday]*](https://trk.udemy.com/homepage) |
 | **Domestika** | Curated practical courses for designers, illustrators, and creatives. | [*[Deal TBA]*](https://domestika.sjv.io/eKxENX) |
 | **LearnWorlds** | Create, market, and sell online courses easily. | [*[Deal TBA]*](https://get.learnworlds.com/coupon) |
+| **TheoryScore** | UK driving theory test practice: 240 questions across all 14 DVSA topics with explanations, timed 50-question mock tests and topic-level scoring. Web app, no install. | [40% off your first month or year — $5.40 first month / $15.00 first year](https://theoryscore.com/black-friday/) |
 
 ---
 *Disclaimer: Some of the URLs in this repository may be affiliate links. If you purchase through them, we may earn a small commission at no additional cost to you. We only list verified, reputable tools.*
