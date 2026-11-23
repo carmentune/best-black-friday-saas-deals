@@ -177,7 +177,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **OffSeq Pulse** | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. | [50% off the first year or month for new customers, applied automatically, until Dec 2](https://pulse.offseq.com/pricing) |
 | **DailyRemote** | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts. | [39% off Premium monthly, quarterly and yearly plans with code BFBNRTZSY, Nov 12 - Dec 1](https://dailyremote.com/get-started) |
 | **Inkfree** | eSignature for teams: signing order, reusable templates, bulk send and a sealed audit trail. | [70% off the first year (annual) or 60% off the first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
-| **DataCheck** | Rule-driven duplicate, shift & anomaly checks for research tables across 56 versioned rules, with source-cell evidence (Web & Windows). | [30% off all standard one-time packs (HK$116 → HK$81.20+) & perpetual Windows licenses (HK$15,288 → HK$10,701.60+), auto-applied, no code needed, Nov 23 – Dec 5](https://datacheck.cc/en/pricing) |
+| **datacheck.cc** | Research data verification platform featuring DataCheck: rule-driven duplicate, shift & anomaly checks across 56 versioned rules, with source-cell evidence (Web & Windows). | [30% off all standard one-time packs (HK$116 → HK$81.20+) & perpetual Windows licenses (HK$15,288 → HK$10,701.60+), auto-applied, no code needed, Nov 23 – Dec 5](https://datacheck.cc/en/pricing) |
 
 ## 🎓 Learning & Online Courses
 
