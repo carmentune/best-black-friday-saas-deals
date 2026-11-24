@@ -43,6 +43,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Nuelink** | Agentic social media scheduling and automation across 12 platforms. | [50% off yearly plans (6 months free) or 25% off first 3 months with code `BFCM26`, Nov 6 – Nov 30](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=carmentune_black_friday_saas_deals) |
 | **Mailzzy** | Small-business email marketing with templates, AI-drafted campaigns, A/B testing, and automations. | [70% off first year (annual) or 60% off first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
 | **Tantra** | AI-first GTM outreach across email, LinkedIn, WhatsApp, and Google Calendar with a unified inbox and flat company pricing. | [**50% off for life** on Pro and Scale with code `TANTRA50`, Nov 23 – Dec 1](https://deals.usetantra.com/?ref=Awesome-Black-Friday-Cyber-Monday) |
+| **Waitlyze** | Waitlist platform for founders and creators with referral rewards, launch email automation, and signup analytics. | [40% off Pro Annual for the first year with code `BFCM2026` ($119 → $71.40), renews at $119/year through Dec 3](https://waitlyze.com/pricing) |
 
 ## 🛒 E-commerce & Dropshipping
 
