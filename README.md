@@ -13,6 +13,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 - [SEO, Analytics & Advertising](#-seo-analytics--advertising)
 - [Design & Video Creators](#-design--video-creators)
 - [Automation, Chatbots & AI Tools](#-automation-chatbots--ai-tools)
+| **FlowSpeak** | Local Hold-Ctrl push-to-talk dictation desktop app for macOS (Metal & Intel) and Linux x86_64 running whisper.cpp with clipboard preservation. | [34% off Lifetime Pro ($29 → $19 one-time, up to 3 computers), no code needed, Nov 24 – Dec 1](https://smolkapps.com/flowspeak/) |
 - [Communication & VoIP](#-communication--voip)
 - [Finance & Accounting](#-finance--accounting)
 - [Business, Management & HR](#-business-management--hr)
