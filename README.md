@@ -181,6 +181,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **OffSeq Pulse** | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS, and Linux. | [50% off first year or month for new customers, auto-applied, through Dec 2](https://pulse.offseq.com/pricing) |
 | **DailyRemote** | Remote job board with fast listings, salary filters, and daily alerts. | [39% off Premium monthly, quarterly, and yearly plans with code `BFBNRTZSY`, Nov 12 – Dec 1](https://dailyremote.com/get-started) |
 | **Inkfree** | Team eSignature platform with signing order, templates, bulk send, and sealed audit trails. | [70% off first year (annual) or 60% off first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
+| **ShiftApp** | Employee scheduling on web, iOS and Android. Plan shifts, manage time off and share updates with staff. | [88% off the first 8 months on new Essential monthly plans, auto-applied, through Dec 12, 2026](https://shiftapp.com/black-friday) |
 
 ## 🎓 Learning & Online Courses
 
