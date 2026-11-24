@@ -108,6 +108,8 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **YIX** | Browser-based AI image creation/editing and text/photo-to-video generator. | [50% off first month on all monthly plans, auto-applied (Starter $9.95, Pro $24.95, Max $49.95; then reg. price), Nov 20 – Dec 1 UTC](https://yix.ai/pricing) |
 | **Motionflare** | URL-to-marketing-video generator using your real screenshots, logo, colors, and copy. | [50% off first month of Pro ($14.50) or Max ($49.50), no code needed, Nov 21 – Dec 1](https://motionflare.ai/pricing) |
 | **Oil Studio** | Native Apple Silicon (macOS 15+) screen recorder and video editor with auto-zoom, local Whisper transcript cutting, and CLI/Agent Skill. | [20% off with code `BFCM2026` ($31.20 one-time for 2 Macs; reg. $49), Nov 20 – Dec 2](https://studio.oiloil.org/en/) |
+| **Knitting Chart** | Browser tool for knitters: draw colorwork, lace and cable charts with 500+ stitch symbols, turn a photo into a chart, and print PDFs with a key and written rows. Free to use. | [32% off Lifetime Pro: $40.12 once (regular $59), auto-applied at checkout with no code; monthly $3.99/month and yearly $24/year are not discounted; Nov 23 – Nov 30, 2026, ending 11:59 p.m. PT](https://knittingchart.com/pricing) |
+| **The Cross Stitch Pattern Maker** | Turn a photo into a cross stitch pattern in your browser: edit every stitch, add backstitch, get a DMC floss list and export a PDF. First PDF free. | [32% off Lifetime Pro: $40.12 once (regular $59), auto-applied at checkout with no code; monthly $3.99/month and yearly $24/year are not discounted; Nov 23 – Nov 30, 2026, ending 11:59 p.m. PT](https://thecrossstitchpatternmaker.com/pricing) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
