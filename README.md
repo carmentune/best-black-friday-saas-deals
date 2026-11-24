@@ -135,6 +135,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Sabi** | Text-based AI employee for small businesses handling email, calendar, leads, and social media. | [50% off 6 months of Sabi Pro ($995 → $495), no code needed, Nov 20 – Nov 30](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=carmentune) |
 | **Enconvo** | Native macOS AI assistant and agent for app automation, dictation, document search, and cloud/local models. | [30% off Lifetime licenses (Standard $41.30, Premium $83.30, Teams $111.30) + 30% off first Cloud payment, no code, Nov 20 – Dec 7](https://enconvo.com/?utm_source=github-carmentune&utm_medium=deal-list&utm_campaign=black-friday-2026) |
 | **SaaScaffold** | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 runbooks, payments, AI providers, and admin center. | [50% off Early Access one-time license ($99 → $49), auto-applied, Nov 21 – Dec 6](https://saascaffold.com/pricing) |
+| **EarlyLore** | AI product discovery and competitive intelligence across 540K+ products, website traffic histories, Design DNA, and 14 MCP tools. | [25% off Annual Year 1 (Pro $144 → $108/yr, Max $384 → $288/yr) with code `BF2026` (auto-applied), Nov 24 – Nov 30 PT](https://earlylore.com/pricing) |
 
 ## 📞 Communication & VoIP
 
