@@ -109,6 +109,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Motionflare** | URL-to-marketing-video generator using your real screenshots, logo, colors, and copy. | [50% off first month of Pro ($14.50) or Max ($49.50), no code needed, Nov 21 – Dec 1](https://motionflare.ai/pricing) |
 | **Oil Studio** | Native Apple Silicon (macOS 15+) screen recorder and video editor with auto-zoom, local Whisper transcript cutting, and CLI/Agent Skill. | [20% off with code `BFCM2026` ($31.20 one-time for 2 Macs; reg. $49), Nov 20 – Dec 2](https://studio.oiloil.org/en/) |
 | **Wispim** | Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you pause. | [50% off Lifetime Pro, a one-time purchase: $99.99 instead of $199.99, no code needed, Nov 27 - Nov 30](https://wispim.com/black-friday) |
+| **Narva** | Topic, script or voiceover in, finished faceless YouTube video out. | [30% off the first month of any plan with code `NARVA30`, Nov 23 - Nov 30](https://narva.app/#pricing) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
