@@ -67,7 +67,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Coolify** | Self-hosted, privacy-first alternative to Heroku, Vercel, and Netlify. | [Free / Self-hosted](https://coolify.io) |
 | **Ghost** | Modern publishing platform for blogs, newsletters, and subscriptions. | [Free / Open Core](https://ghost.org) |
 | **Gravity Forms** | Advanced drag-and-drop form builder for WordPress. | [40% off Gravity Forms Elite and Gravity Flow Ultimate, Nov 23 – Dec 1](https://try.gravity.com/coupon) |
-| **InMotion Hosting** | Fast, reliable shared, cloud, and dedicated web hosting. | [Up to 70% off shared, up to 17% off dedicated, and 50% off cloud plans, through Dec 1](https://connect.inmotionhosting.com/deal) |
+| **InMotion Hosting** | Fast, reliable shared, cloud, and dedicated web hosting. | [Up to 70% off shared, up to 17% off dedicated, and 50% off cloud plans, through Dec 1](https://partners.inmotionhosting.com/deal) |
 | **Plesk** | WebOps platform and server management control panel. | [50% off Plesk licenses, Nov 23 – Dec 7](https://try.plesk.com/coupon) |
 | **Kinsta** | Managed WordPress hosting powered by Cloudflare. | [3 months free on annual plans or 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/?kaid=JMUAXHHCMJDL) |
 | **Guard by OffSeq** | Website security and NIS2/GDPR compliance scanning with continuous monitoring. | [50% off full report and first month of monitoring, auto-applied, through Dec 1](https://guard.report/monitoring) |
@@ -108,6 +108,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **YIX** | Browser-based AI image creation/editing and text/photo-to-video generator. | [50% off first month on all monthly plans, auto-applied (Starter $9.95, Pro $24.95, Max $49.95; then reg. price), Nov 20 – Dec 1 UTC](https://yix.ai/pricing) |
 | **Motionflare** | URL-to-marketing-video generator using your real screenshots, logo, colors, and copy. | [50% off first month of Pro ($14.50) or Max ($49.50), no code needed, Nov 21 – Dec 1](https://motionflare.ai/pricing) |
 | **Oil Studio** | Native Apple Silicon (macOS 15+) screen recorder and video editor with auto-zoom, local Whisper transcript cutting, and CLI/Agent Skill. | [20% off with code `BFCM2026` ($31.20 one-time for 2 Macs; reg. $49), Nov 20 – Dec 2](https://studio.oiloil.org/en/) |
+| **Wispim** | Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you pause. | [50% off Lifetime Pro, a one-time purchase: $99.99 instead of $199.99, no code needed, Nov 27 - Nov 30](https://wispim.com/black-friday) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
@@ -135,6 +136,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Sabi** | Text-based AI employee for small businesses handling email, calendar, leads, and social media. | [50% off 6 months of Sabi Pro ($995 → $495), no code needed, Nov 20 – Nov 30](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=carmentune) |
 | **Enconvo** | Native macOS AI assistant and agent for app automation, dictation, document search, and cloud/local models. | [30% off Lifetime licenses (Standard $41.30, Premium $83.30, Teams $111.30) + 30% off first Cloud payment, no code, Nov 20 – Dec 7](https://enconvo.com/?utm_source=github-carmentune&utm_medium=deal-list&utm_campaign=black-friday-2026) |
 | **SaaScaffold** | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 runbooks, payments, AI providers, and admin center. | [50% off Early Access one-time license ($99 → $49), auto-applied, Nov 21 – Dec 6](https://saascaffold.com/pricing) |
+| **ImagineYourBook** | AI book writer that plans and drafts full-length novels with a cover, then exports to Word, EPUB, or Markdown. | [Pay-once novel credit packs: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code, through Nov 30 (11:59 PM PT)](https://www.imagineyourbook.com/blackfriday) |
 | **FlowSpeak** | Local Hold-Ctrl push-to-talk dictation desktop app for macOS (Metal & Intel) and Linux x86_64 running whisper.cpp with clipboard preservation. | [34% off Lifetime Pro ($29 → $19 one-time, up to 3 computers, no promo code needed), Nov 24 – Dec 1](https://smolkapps.com/flowspeak/) |
 
 ## 📞 Communication & VoIP
@@ -153,6 +155,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Gravity** | Integrated merchant processing and business banking services. | [40% off Gravity Forms Elite and Gravity Flow Ultimate, Nov 23 – Dec 1](https://try.gravity.com/coupon) <!-- Revisar: enlace y oferta de Gravity Forms --> |
 | **BILL** | Automated financial operations and accounts payable. | [*Deal TBA*](https://referral.bill.com/promo) |
 | **Dext** | Accounting automation for data extraction and bookkeeping. | [15% off for 12 months](https://join.dext.com/coupon) |
+| **Options Matrix Pro** | Options strategy visualizer, scanners and trade journal for retail options traders. | [50% off every plan: first year on annual, first 3 months on monthly. No code needed. Nov 23 to 30, 2026](https://www.optionsmatrixpro.com/black-friday) |
 
 ## 💼 Business, Management & HR
 
@@ -168,7 +171,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Baserow** | Collaborative database platform and alternative to Airtable. | [Free / Self-hosted](https://baserow.io) |
 | **Bókun** | Tour and activity booking management software. | [*Deal TBA*](https://join.bokun.io/promo-code) |
 | **MRPeasy** | Cloud-based MRP and ERP software for small manufacturers. | [*Deal TBA*](https://try.mrpeasy.com/free-trial) |
-| **Shopmonkey** | Auto repair shop management and invoicing software. | [*Deal TBA*](https://get.shopmonkey.io/free-trial) |
+| **Shopmonkey** | Auto repair shop management and invoicing software. | [25% off Shopmonkey, through Nov 30](https://get.shopmonkey.io/free-trial) |
 | **ABC Trainerize** | Personal training and fitness business management app. | [*Deal TBA*](https://getstarted.trainerize.com/discount) |
 | **Katana** | Cloud inventory software for manufacturing businesses. | [*Deal TBA*](https://psref.katanamrp.com/promo-code) |
 | **Passpack** | Secure team password manager and collaboration tool. | [*Deal TBA*](https://try.passpack.com/promo) |
@@ -182,15 +185,17 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **OffSeq Pulse** | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS, and Linux. | [50% off first year or month for new customers, auto-applied, through Dec 2](https://pulse.offseq.com/pricing) |
 | **DailyRemote** | Remote job board with fast listings, salary filters, and daily alerts. | [39% off Premium monthly, quarterly, and yearly plans with code `BFBNRTZSY`, Nov 12 – Dec 1](https://dailyremote.com/get-started) |
 | **Inkfree** | Team eSignature platform with signing order, templates, bulk send, and sealed audit trails. | [70% off first year (annual) or 60% off first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
+| **CVder** | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score and writes the cover letter. | [50% off your first payment on any Pro plan with code BF2026: monthly €14 → €7, annual €84 → €42, Nov 27 - Dec 1](https://cvder.app/pricing) |
 
 ## 🎓 Learning & Online Courses
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
 | **Coursera** | Professional certificates and university-accredited degree courses. | [40% off first year of a Coursera Plus annual subscription](https://coursera.pxf.io/EaYa0n) |
-| **Udemy** | Massive marketplace for tech, business, and development courses. | [Courses discounted to $9.99 – $15.99 for BFCM](https://trk.udemy.com/homepage) |
+| **Udemy** | Massive marketplace for tech, business, and development courses. | [Up to 85% off Udemy courses](https://trk.udemy.com/homepage) |
 | **Domestika** | Curated practical courses for designers, illustrators, and creatives. | [*Deal TBA*](https://domestika.sjv.io/eKxENX) |
 | **LearnWorlds** | Platform to create, market, and sell online courses easily. | [Up to 39% off Learning Center plans (Early Bird ends Nov 23, 11:59 PM PST)](https://get.learnworlds.com/coupon) |
+| **VibeShield** | Read-only 6-phase pre-launch security scanner (116 checks) for AI-built & modern web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects JS bundle secret leaks, missing security headers, weak CSP & Supabase RLS gaps with zero signup. | [78% OFF one-time ($9 → $2) · 83% OFF 3-App Suite ($29 → $5), auto-applied](https://vibe-checker.appwrite.network/) |
 
 ---
 *Disclaimer: Some of the URLs in this repository may be affiliate links. If you purchase through them, we may earn a small commission at no additional cost to you. We only list verified, reputable tools.*
