@@ -43,6 +43,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Nuelink** | Agentic social media scheduling and automation across 12 platforms. | [50% off yearly plans (6 months free) or 25% off first 3 months with code `BFCM26`, Nov 6 – Nov 30](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=carmentune_black_friday_saas_deals) |
 | **Mailzzy** | Small-business email marketing with templates, AI-drafted campaigns, A/B testing, and automations. | [70% off first year (annual) or 60% off first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
 | **Tantra** | AI-first GTM outreach across email, LinkedIn, WhatsApp, and Google Calendar with a unified inbox and flat company pricing. | [**50% off for life** on Pro and Scale with code `TANTRA50`, Nov 23 – Dec 1](https://deals.usetantra.com/?ref=Awesome-Black-Friday-Cyber-Monday) |
+| **Expandi** | LinkedIn and email outreach automation in one campaign, with a dedicated IP for each LinkedIn account. | [Up to 77% off for 12 months: $79 → $53 per LinkedIn account/mo billed yearly, down to $23 at 50+ accounts, no code, Nov 20 – Dec 4](https://expandi.io/bfcm-promo/?utm_source=github-carmentune&utm_medium=referral&utm_campaign=bfcm-2026) |
 
 ## 🛒 E-commerce & Dropshipping
 
@@ -87,7 +88,6 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Appfigures** | ASO and App Intelligence for App Store and Google Play with keyword, download, and revenue tracking. | [50% off monthly or annual plans for 12 months with code `BF2650` (up to $200/mo off), Nov 23 – Nov 30](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=carmentune) |
 | **RightBlogger** | AI blog writer with WordPress/CMS publishing and Search Console optimization alerts. | [50% off every annual plan for life, no code needed, through Dec 1](https://rightblogger.com/pricing?offer=bf2026&utm_source=carmentune) |
 | **Toplify** | App Store chart monitoring for developers across 175 countries (iOS and macOS). | [$49.99 for Pro Lifetime (reg. $89.99), App Store code `BLKFR2026`, Nov 15 – Dec 1](https://toplify.app/) |
-| **Check Engine SEO** | Desktop SEO site audit for Mac and Windows: 99 checks ranked into one fix plan, with a free version. | [Black Friday sale: $19.99 once through December 2. Then $39.](https://checkengineseo.com/?ref=carmentune) |
 
 ## 🎨 Design & Video Creators
 
@@ -109,6 +109,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Motionflare** | URL-to-marketing-video generator using your real screenshots, logo, colors, and copy. | [50% off first month of Pro ($14.50) or Max ($49.50), no code needed, Nov 21 – Dec 1](https://motionflare.ai/pricing) |
 | **Oil Studio** | Native Apple Silicon (macOS 15+) screen recorder and video editor with auto-zoom, local Whisper transcript cutting, and CLI/Agent Skill. | [20% off with code `BFCM2026` ($31.20 one-time for 2 Macs; reg. $49), Nov 20 – Dec 2](https://studio.oiloil.org/en/) |
 | **Wispim** | Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you pause. | [50% off Lifetime Pro, a one-time purchase: $99.99 instead of $199.99, no code needed, Nov 27 - Nov 30](https://wispim.com/black-friday) |
+| **Shorvo** | Windows desktop app that turns a script into a finished vertical YouTube Short (footage, AI voiceover and captions); first 3 videos free. | [40% off Pro Lifetime, a one-time license: $77.40 instead of $129 with code `BF40`, until Dec 10](https://shorvostudio.com/?utm_source=bfdeals_carmentune&utm_medium=listing&utm_campaign=bf40) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
@@ -137,6 +138,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Enconvo** | Native macOS AI assistant and agent for app automation, dictation, document search, and cloud/local models. | [30% off Lifetime licenses (Standard $41.30, Premium $83.30, Teams $111.30) + 30% off first Cloud payment, no code, Nov 20 – Dec 7](https://enconvo.com/?utm_source=github-carmentune&utm_medium=deal-list&utm_campaign=black-friday-2026) |
 | **SaaScaffold** | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 runbooks, payments, AI providers, and admin center. | [50% off Early Access one-time license ($99 → $49), auto-applied, Nov 21 – Dec 6](https://saascaffold.com/pricing) |
 | **ImagineYourBook** | AI book writer that plans and drafts full-length novels with a cover, then exports to Word, EPUB, or Markdown. | [Pay-once novel credit packs: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code, through Nov 30 (11:59 PM PT)](https://www.imagineyourbook.com/blackfriday) |
+| **Grai** | Offline cadence gate that flags AI-writing tells in drafts before clients do, with a live verification link for client work. | [30% off your first billing cycle on Solo Offline ($79/yr) and Agency Protocol ($99/mo, $790/yr) with code BF2026, Nov 24 to Nov 30, 2026](https://grai.page) |
 | **FlowSpeak** | Local Hold-Ctrl push-to-talk dictation desktop app for macOS (Metal & Intel) and Linux x86_64 running whisper.cpp with clipboard preservation. | [34% off Lifetime Pro ($29 → $19 one-time, up to 3 computers, no promo code needed), Nov 24 – Dec 1](https://smolkapps.com/flowspeak/) |
 
 ## 📞 Communication & VoIP
