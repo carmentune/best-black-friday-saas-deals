@@ -13,7 +13,6 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 - [SEO, Analytics & Advertising](#-seo-analytics--advertising)
 - [Design & Video Creators](#-design--video-creators)
 - [Automation, Chatbots & AI Tools](#-automation-chatbots--ai-tools)
-| **FlowSpeak** | Local Hold-Ctrl push-to-talk dictation desktop app for macOS (Metal & Intel) and Linux x86_64 running whisper.cpp with clipboard preservation. | [34% off Lifetime Pro ($29 → $19 one-time, up to 3 computers), no code needed, Nov 24 – Dec 1](https://smolkapps.com/flowspeak/) |
 - [Communication & VoIP](#-communication--voip)
 - [Finance & Accounting](#-finance--accounting)
 - [Business, Management & HR](#-business-management--hr)
@@ -136,6 +135,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Sabi** | Text-based AI employee for small businesses handling email, calendar, leads, and social media. | [50% off 6 months of Sabi Pro ($995 → $495), no code needed, Nov 20 – Nov 30](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=carmentune) |
 | **Enconvo** | Native macOS AI assistant and agent for app automation, dictation, document search, and cloud/local models. | [30% off Lifetime licenses (Standard $41.30, Premium $83.30, Teams $111.30) + 30% off first Cloud payment, no code, Nov 20 – Dec 7](https://enconvo.com/?utm_source=github-carmentune&utm_medium=deal-list&utm_campaign=black-friday-2026) |
 | **SaaScaffold** | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 runbooks, payments, AI providers, and admin center. | [50% off Early Access one-time license ($99 → $49), auto-applied, Nov 21 – Dec 6](https://saascaffold.com/pricing) |
+| **FlowSpeak** | Local Hold-Ctrl push-to-talk dictation desktop app for macOS (Metal & Intel) and Linux x86_64 running whisper.cpp with clipboard preservation. | [34% off Lifetime Pro ($29 → $19 one-time, up to 3 computers, no promo code needed), Nov 24 – Dec 1](https://smolkapps.com/flowspeak/) |
 
 ## 📞 Communication & VoIP
 
