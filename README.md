@@ -72,6 +72,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Kinsta** | Managed WordPress hosting powered by Cloudflare. | [3 months free on annual plans or 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/?kaid=JMUAXHHCMJDL) |
 | **Guard by OffSeq** | Website security and NIS2/GDPR compliance scanning with continuous monitoring. | [50% off full report and first month of monitoring, auto-applied, through Dec 1](https://guard.report/monitoring) |
 | **Zerodirs** | SEO-first directory boilerplate for AI coding agents and Cloudflare with $0/mo hosting. | [73% off lifetime payment, auto-applied, through Dec 20](https://zerodirs.com/#pricing) |
+| **Uptimecheck** | European uptime monitoring for websites, APIs, cron jobs and servers, with status pages and alerts by email, Slack, Teams, SMS and push. | [70% off the first year on yearly plans (Start €108 → €29), auto-applied, through Dec 4](https://uptimecheck.com/pricing/?utm_source=github&utm_medium=deal-list&utm_campaign=black-week-2026) |
 
 ## 🔍 SEO, Analytics & Advertising
 
