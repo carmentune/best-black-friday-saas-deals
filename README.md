@@ -88,6 +88,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **RightBlogger** | AI blog writer with WordPress/CMS publishing and Search Console optimization alerts. | [50% off every annual plan for life, no code needed, through Dec 1](https://rightblogger.com/pricing?offer=bf2026&utm_source=carmentune) |
 | **Toplify** | App Store chart monitoring for developers across 175 countries (iOS and macOS). | [$49.99 for Pro Lifetime (reg. $89.99), App Store code `BLKFR2026`, Nov 15 – Dec 1](https://toplify.app/) |
 | **Check Engine SEO** | Desktop SEO site audit for Mac and Windows: 99 checks ranked into one fix plan, with a free version. | [Black Friday sale: $19.99 once through December 2. Then $39.](https://checkengineseo.com/?ref=carmentune) |
+| **Quiet Winners** | Monthly leaderboard of fast-growing websites making real money under the radar, with a 10,000+ word teardown of each one. | [50% off your first month or year of Pro, no code needed](https://quietwinners.com/) |
 
 ## 🎨 Design & Video Creators
 
