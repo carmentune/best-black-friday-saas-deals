@@ -44,6 +44,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Mailzzy** | Small-business email marketing with templates, AI-drafted campaigns, A/B testing, and automations. | [70% off first year (annual) or 60% off first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
 | **Tantra** | AI-first GTM outreach across email, LinkedIn, WhatsApp, and Google Calendar with a unified inbox and flat company pricing. | [**50% off for life** on Pro and Scale with code `TANTRA50`, Nov 23 – Dec 1](https://deals.usetantra.com/?ref=Awesome-Black-Friday-Cyber-Monday) |
 | **Expandi** | LinkedIn and email outreach automation in one campaign, with a dedicated IP for each LinkedIn account. | [Up to 77% off for 12 months: $79 → $53 per LinkedIn account/mo billed yearly, down to $23 at 50+ accounts, no code, Nov 20 – Dec 4](https://expandi.io/bfcm-promo/?utm_source=github-carmentune&utm_medium=referral&utm_campaign=bfcm-2026) |
+| **Startup Buffer** | Startup directory with 33,000+ listings; homepage features put your product in front of people browsing new startups. | [50% off homepage features, no code needed: 2 weeks $49 → $24.50, 3 months $299 → $149.50, Nov 26 – Dec 4](https://startupbuffer.com/promote?utm_source=carmentune&utm_medium=github&utm_campaign=bf2026) |
 
 ## 🛒 E-commerce & Dropshipping
 
