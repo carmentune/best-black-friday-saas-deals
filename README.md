@@ -194,6 +194,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Inkfree** | Team eSignature platform with signing order, templates, bulk send, and sealed audit trails. | [70% off first year (annual) or 60% off first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
 | **CVder** | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score and writes the cover letter. | [50% off your first payment on any Pro plan with code BF2026: monthly €14 → €7, annual €84 → €42, Nov 27 - Dec 1](https://cvder.app/pricing) |
 | **EasySwitch** | Software KVM for macOS, Windows and Linux: one keyboard and mouse across your computers on the local network, with a shared clipboard and file transfer; free for two computers. | [34–51% off every plan, one-time purchase: Pro $29 instead of $49, no code needed, Nov 27 – Nov 30](https://easyswitch.realbrain.cc/pricing) |
+| **Exit Loop** | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe. | [50% off the first year of the yearly plan ($149 → $74.50) with code `BLACKFRIDAY50`, new customers, through Dec 1](https://www.exitloop.app/black-friday) |
 
 ## 🎓 Learning & Online Courses
 
