@@ -197,6 +197,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **CVder** | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score and writes the cover letter. | [50% off your first payment on any Pro plan with code BF2026: monthly €14 → €7, annual €84 → €42, Nov 27 - Dec 1](https://cvder.app/pricing) |
 | **EasySwitch** | Software KVM for macOS, Windows and Linux: one keyboard and mouse across your computers on the local network, with a shared clipboard and file transfer; free for two computers. | [34–51% off every plan, one-time purchase: Pro $29 instead of $49, no code needed, Nov 27 – Nov 30](https://easyswitch.realbrain.cc/pricing) |
 | **Autentique** | E-signature platform with unlimited documents, users and signers, plus an API. | [30% off the annual Professional plan ($179 → $119/year), auto-applied, plus an extra 20% off with code `BFF61H8`, through Nov 30](https://www.autentique.com.br/en) |
+| **ScopeForge Studio** | Offline freelance software quote estimator, SOW PDF generator, and 5-sheet Excel margin workbook. | [40% off ($4.00 to $2.40, code SCOPE40) or 60% off first 10 ($1.60, FIRST10). Nov 27 to Dec 1, 2026](https://tolga571.github.io/black-friday-2026.html) |
 
 ## 🎓 Learning & Online Courses
 
