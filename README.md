@@ -165,7 +165,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Dext** | Accounting automation for data extraction and bookkeeping. | [15% off for 12 months](https://join.dext.com/coupon) |
 | **Options Matrix Pro** | Options strategy visualizer, scanners and trade journal for retail options traders. | [50% off every plan: first year on annual, first 3 months on monthly. No code needed. Nov 23 to 30, 2026](https://www.optionsmatrixpro.com/black-friday) |
 | **BrassWell** | Bookkeeping for the self-employed: income, expenses, receipts, mileage and invoices. | [25% off the first year of Pro yearly with code BLACKFRIDAY25 ($299 → $224.25). Nov 23 to 30, 2026](https://brasswell.app/black-friday) |
-| **Galore** | Social investing app: turn a belief or any post (TikTok, YouTube, X) into stock ideas, test an idea on past prices and follow the public trades of creators and investors. | [Free access to the whole platform now, plus 20% off membership ($89.99/year or $11.99/month) when it opens with code `BLACKFRIDAY`. Paper trading today; live trading not yet available. Not investment advice.](https://trygalore.com) |
+| **Galore** | Social investing app: turn a belief or any post (TikTok, YouTube, X) into stock ideas, test an idea on past prices and follow the public trades of creators and investors. | [Free access to the whole platform now, plus 20% off membership ($89.99/year or $11.99/month) when it opens with code `BLACKFRIDAY`, Nov 28 – Dec 1. Paper trading today; live trading not yet available. Not investment advice.](https://trygalore.com) |
 
 ## 💼 Business, Management & HR
 
