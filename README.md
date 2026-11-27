@@ -206,7 +206,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Udemy** | Massive marketplace for tech, business, and development courses. | [Up to 85% off Udemy courses](https://trk.udemy.com/homepage) |
 | **Domestika** | Curated practical courses for designers, illustrators, and creatives. | [*Deal TBA*](https://domestika.sjv.io/eKxENX) |
 | **LearnWorlds** | Platform to create, market, and sell online courses easily. | [Up to 39% off first year on Pro Trainer, Learning Center & Learning Center + Mobile (annual billing), ends Nov 27](https://get.learnworlds.com/coupon) |
-| **VibeShield** | Read-only 6-phase pre-launch security scanner (116 checks) for AI-built & modern web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects JS bundle secret leaks, missing security headers, weak CSP & Supabase RLS gaps with zero signup. | [78% OFF one-time ($9 → $2) · 83% OFF 3-App Suite ($29 → $5), auto-applied](https://vibe-checker.appwrite.network/) |
+| **VibeShield** | Read-only 6-phase pre-launch security scanner (116 checks) for AI-built & modern web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects JS bundle secret leaks, missing security headers, weak CSP & Supabase RLS gaps with zero signup. | [78% OFF one-time ($9 → $2) · 83% OFF 3-App Suite ($29 → $5), auto-applied](https://shipbastion.com/) |
 
 ---
 *Disclaimer: Some of the URLs in this repository may be affiliate links. If you purchase through them, we may earn a small commission at no additional cost to you. We only list verified, reputable tools.*
