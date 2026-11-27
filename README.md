@@ -45,6 +45,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Tantra** | AI-first GTM outreach across email, LinkedIn, WhatsApp, and Google Calendar with a unified inbox and flat company pricing. | [**50% off for life** on Pro and Scale with code `TANTRA50`, Nov 23 – Dec 1](https://deals.usetantra.com/?ref=Awesome-Black-Friday-Cyber-Monday) |
 | **Expandi** | LinkedIn and email outreach automation in one campaign, with a dedicated IP for each LinkedIn account. | [Up to 77% off for 12 months: $79 → $53 per LinkedIn account/mo billed yearly, down to $23 at 50+ accounts, no code, Nov 20 – Dec 4](https://expandi.io/bfcm-promo/?utm_source=github-carmentune&utm_medium=referral&utm_campaign=bfcm-2026) |
 | **BlueChimp** | Warm B2B lead finder that matches buyer intent signals with your LinkedIn network, with an MCP server for ChatGPT and Claude. | [50% off Growth and Dealflow plans for 6 months on monthly or 1 year on annual with code `BFIntent`, Nov 27 – Nov 29](https://www.blue-chimp.com/pricing) |
+| **Loudwell** | Mac app for small brands: plans a week of social posts from your own photos and clips, writes captions with your own AI key, and posts only what you approve. | [40% off the first year of either plan with code `BF40` (Solo £49.99 → £29.99 a year), new customers, Nov 27 – Dec 1](https://loudwell.app/black-friday/?s=bf-carm) |
 
 ## 🛒 E-commerce & Dropshipping
 
