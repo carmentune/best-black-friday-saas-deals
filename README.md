@@ -146,6 +146,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **ImagineYourBook** | AI book writer that plans and drafts full-length novels with a cover, then exports to Word, EPUB, or Markdown. | [Pay-once novel credit packs: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code, through Nov 30 (11:59 PM PT)](https://www.imagineyourbook.com/blackfriday) |
 | **Grai** | Offline cadence gate that flags AI-writing tells in drafts before clients do, with a live verification link for client work. | [30% off your first billing cycle on Solo Offline ($79/yr) and Agency Protocol ($99/mo, $790/yr) with code BF2026, Nov 24 to Nov 30, 2026](https://grai.page) |
 | **EarlyLore** | AI product discovery and competitive intelligence across 540K+ products, website traffic histories, Design DNA, and 14 MCP tools. | [25% off Annual Year 1 (Pro $144 → $108/yr, Max $384 → $288/yr) with code `BF2026` (auto-applied), Nov 24 – Nov 30 PT](https://earlylore.com/pricing) |
+| **AGNT** | Desktop AI agent platform for building agents and workflows that run on your computer or a dedicated cloud instance. | [40% off the first year of yearly plans (Pro $290 → $174, Team $990 → $594) with code `BLACKFRIDAY` (applied at checkout), Nov 18 – Nov 30, 2026 PT](https://agnt.gg/pricing?utm_source=carmentune&utm_medium=github&utm_campaign=bf2026#deal) |
 
 ## 📞 Communication & VoIP
 
