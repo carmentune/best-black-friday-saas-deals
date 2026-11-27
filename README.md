@@ -146,6 +146,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **ImagineYourBook** | AI book writer that plans and drafts full-length novels with a cover, then exports to Word, EPUB, or Markdown. | [Pay-once novel credit packs: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code, through Nov 30 (11:59 PM PT)](https://www.imagineyourbook.com/blackfriday) |
 | **Grai** | Offline cadence gate that flags AI-writing tells in drafts before clients do, with a live verification link for client work. | [30% off your first billing cycle on Solo Offline ($79/yr) and Agency Protocol ($99/mo, $790/yr) with code BF2026, Nov 24 to Nov 30, 2026](https://grai.page) |
 | **EarlyLore** | AI product discovery and competitive intelligence across 540K+ products, website traffic histories, Design DNA, and 14 MCP tools. | [25% off Annual Year 1 (Pro $144 → $108/yr, Max $384 → $288/yr) with code `BF2026` (auto-applied), Nov 24 – Nov 30 PT](https://earlylore.com/pricing) |
+| **APXY** | Local HTTP/HTTPS debugging proxy with CLI + MCP so coding agents (Claude Code, Cursor, Codex) can verify the real requests their code sends. macOS & Linux. | [30% off APXY Pro ($99 → $69.30, one-time for 3 devices) with code `APXY2026`](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026) |
 
 ## 📞 Communication & VoIP
 
