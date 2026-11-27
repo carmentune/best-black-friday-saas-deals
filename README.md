@@ -33,7 +33,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Listmonk** | High-performance newsletter and mailing list manager. | [Free / Self-hosted](https://listmonk.app) |
 | **Cal.com** | Open-source scheduling infrastructure and booking tool. | [Free / Open Core](https://cal.com) |
 | **Lusha** | B2B contact database and sales intelligence platform. | [35% off annual plans (Holiday Special) or up to 40% off Pro Annual](https://partnerstack.lusha.com/pkg6s1a4597a-omvn4r) |
-| **GetResponse** | Comprehensive email marketing and automation software. | [Up to 40% off](https://try.getresponsetoday.com/coupon) |
+| **GetResponse** | Comprehensive email marketing and automation software. | [Up to 40% off all plans (15% off monthly, 30% off yearly, 40% off 2-year), through Dec 3](https://try.getresponsetoday.com/coupon) |
 | **Reply.io** | AI-powered sales engagement and cold outreach platform. | [40% off with code `BF26REPLY` through Nov 30 (plus 25% off Jason AI SDR with `BF26JASON` and 42% off Agency)](https://get.reply.io/coupon) |
 | **Amplemarket** | All-in-one revenue platform for B2B sales. | [*Deal TBA*](https://grow.amplemarket.com/try-for-free) |
 | **Book Your Data** | Verified B2B email lists and contact database. | [*Deal TBA*](https://join.bookyourdata.com/discount) |
@@ -82,7 +82,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 |---|---|---|
 | **Semrush** | SEO audit, keyword analysis, competitor research, and PPC suite. | [Up to 17% off + 14-day free trial](https://semrush.sjv.io/e4x4N1) |
 | **Surfer SEO** | Content intelligence and on-page optimization workflow engine. | [Up to 30% off annual plans](https://get.surferseo.com/20-off-discount) |
-| **TikTok Ads** | Ad management platform to reach audiences via short-form video. | [*Deal TBA*](https://getstartedtiktok.partnerlinks.io/jzbai1rr03yt) |
+| **TikTok Ads** | Ad management platform to reach audiences via short-form video. | [Up to $6,000 in free ad credits for new advertisers (Spend $200 → Get $200, Spend $500 → Get $500, Spend $1,500 → Get $1,000, up to Spend $10K → Get $6K in first 30 days)](https://getstartedtiktok.partnerlinks.io/jzbai1rr03yt) |
 | **Umami** | Privacy-respecting, lightweight alternative to Google Analytics. | [Free / Self-hosted](https://umami.is) |
 | **Ahrefs Webmaster Tools** | Site audit and backlink checker for verified site owners. | [Free tier](https://ahrefs.com/awt) |
 | **AgencyAnalytics** | Automated reporting software for marketing agencies. | [Black Friday price drop to $25/mo per client (all integrations & reports included) + 14-day free trial](https://try.agencyanalytics.com/free-trial) |
@@ -96,9 +96,9 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **AdCreative.ai** | AI-powered ad creative and banner generator. | [50% off all annual plans with code `BLACKFRIDAY50`, Nov 14 – Nov 27](https://free-trial.adcreative.ai/full-access) |
+| **AdCreative.ai** | AI-powered ad creative and banner generator. | [50% off quarterly & annual plans + double credits (auto-applied)](https://free-trial.adcreative.ai/full-access) |
 | **CapCut** | Video editing platform with automated AI creation tools. | [90% off first month on Pro or Ultra monthly plan (CapCut PC only, new & lapsed >30 days users) + free trial for select new users](https://capcutaffiliateprogram.pxf.io/pro) |
-| **ElevenLabs** | Realistic voice synthesis, text-to-speech, and voice cloning. | [Up to 55% off annual plans](https://try.elevenlabs.io/promo-code) |
+| **ElevenLabs** | Realistic voice synthesis, text-to-speech, and voice cloning. | [Up to 55% off annual plans (first year), through Dec 1](https://try.elevenlabs.io/promo-code) |
 | **Gamma.app** | AI workspace for generating decks, documents, and web pages. | [*Deal TBA*](https://try.gamma.app/coupon) |
 | **Murf AI** | Studio-quality AI voiceover generation and audio transcription. | [*Deal TBA*](https://get.murf.ai/3wiwco1xw1bv) |
 | **PixVerse** | AI video generation tool from text and images. | [Up to 59% off annual plans vs. monthly (select "Claim Black Friday Offer & Continue" at checkout), through Dec 1](https://motivaiprivatelimited.sjv.io/promo) |
@@ -202,7 +202,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Coursera** | Professional certificates and university-accredited degree courses. | [40% off first year of Coursera Plus annual ($239/yr vs. $399), through Nov 30.](https://coursera.pxf.io/EaYa0n) |
 | **Udemy** | Massive marketplace for tech, business, and development courses. | [Up to 85% off Udemy courses](https://trk.udemy.com/homepage) |
 | **Domestika** | Curated practical courses for designers, illustrators, and creatives. | [*Deal TBA*](https://domestika.sjv.io/eKxENX) |
-| **LearnWorlds** | Platform to create, market, and sell online courses easily. | [Up to 39% off Learning Center plans (Early Bird ends Nov 23, 11:59 PM PST)](https://get.learnworlds.com/coupon) |
+| **LearnWorlds** | Platform to create, market, and sell online courses easily. | [Up to 39% off first year on Pro Trainer, Learning Center & Learning Center + Mobile (annual billing), ends Nov 27](https://get.learnworlds.com/coupon) |
 | **VibeShield** | Read-only 6-phase pre-launch security scanner (116 checks) for AI-built & modern web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects JS bundle secret leaks, missing security headers, weak CSP & Supabase RLS gaps with zero signup. | [78% OFF one-time ($9 → $2) · 83% OFF 3-App Suite ($29 → $5), auto-applied](https://vibe-checker.appwrite.network/) |
 
 ---
