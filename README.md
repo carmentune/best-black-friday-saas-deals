@@ -75,6 +75,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Zerodirs** | SEO-first directory boilerplate for AI coding agents and Cloudflare with $0/mo hosting. | [73% off lifetime payment, auto-applied, through Dec 20](https://zerodirs.com/#pricing) |
 | **Miget** | Cloud platform for apps, databases and workers on one compute plan, with no per-app fees. | [33% off a new workspace for 12 months with code `BLACKFRIDAY26`, Nov 27 - Nov 30](https://miget.com/plans?utm_source=carmentune&utm_medium=deal-list&utm_campaign=bf2026) |
 | **Faivelo** | Email hosting for your own domain with unlimited mailboxes, aliases and domains. | [80% off: $12 for the year instead of $60, first 500 new accounts, until Dec 1](https://faivelo.com/black-friday) |
+| **Beam** | Serverless GPUs, sandboxes and VMs for AI apps and agents, billed by usage. | [Double your credits: purchases matched 1:1 up to $100 free, auto-applied, new and existing accounts, Nov 27 - Nov 30](https://www.beam.cloud/pricing) |
 
 ## 🔍 SEO, Analytics & Advertising
 
