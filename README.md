@@ -91,6 +91,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **RightBlogger** | AI blog writer with WordPress/CMS publishing and Search Console optimization alerts. | [50% off every annual plan for life, no code needed, through Dec 1](https://rightblogger.com/pricing?offer=bf2026&utm_source=carmentune) |
 | **Toplify** | App Store chart monitoring for developers across 175 countries (iOS and macOS). | [$49.99 for Pro Lifetime (reg. $89.99), App Store code `BLKFR2026`, Nov 15 – Dec 1](https://toplify.app/) |
 | **KittyTrace** | Self-hosted error tracking for web and backend apps that works with the Sentry SDK, on your own Cloudflare account or a Docker server. | [34% off the one-time license with code `BF2026` ($29 -> $19, no subscription), Nov 17 - Dec 1](https://kittytrace.com/?utm_source=carmentune&utm_campaign=bf2026) |
+| **AI Tool Trek** | AI tools directory where makers list their AI tool for discovery and dofollow backlinks. | [50% off Fast Track listing ($24.90 → $12.45) with code `BLACKFRIDAY50` (auto-applied), Unlimited Pack $39.90/mo locked for life, Nov 24 – Nov 30](https://aitooltrek.com/submit) |
 
 ## 🎨 Design & Video Creators
 
