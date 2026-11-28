@@ -149,6 +149,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Grai** | Offline cadence gate that flags AI-writing tells in drafts before clients do, with a live verification link for client work. | [30% off your first billing cycle on Solo Offline ($79/yr) and Agency Protocol ($99/mo, $790/yr) with code BF2026, Nov 24 to Nov 30, 2026](https://grai.page) |
 | **EarlyLore** | AI product discovery and competitive intelligence across 540K+ products, website traffic histories, Design DNA, and 14 MCP tools. | [25% off Annual Year 1 (Pro $144 → $108/yr, Max $384 → $288/yr) with code `BF2026` (auto-applied), Nov 24 – Nov 30 PT](https://earlylore.com/pricing) |
 | **Bordfeed** | Job data API for agents and builders: 500k+ live jobs from company hiring pages, refreshed nightly, via REST API, webhooks, email or MCP. | [50% off your first 3 months on any plan (Pro $79 → $39.50/mo) with code `BFCM50`, new subscriptions only, Nov 27 – Dec 4](https://bordfeed.com/black-friday?utm_source=github&utm_medium=bf_list&utm_campaign=carmentune) |
+| **OpenComputer** | Open-source cloud coding agent in Slack that works in its own cloud computer and opens pull requests; self-host free or use the hosted plans. | [50% off Pro ($10/mo, 4,000 work minutes) and Max ($100/mo, 50,000 work minutes) with double the usual minutes, no code, first 50 workspaces keep it 12 months then 3 months, Nov 27 – Nov 30](https://opencomputer.dev/blog/black-friday-2026/) |
 
 ## 📞 Communication & VoIP
 
