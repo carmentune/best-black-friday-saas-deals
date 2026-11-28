@@ -149,6 +149,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Grai** | Offline cadence gate that flags AI-writing tells in drafts before clients do, with a live verification link for client work. | [30% off your first billing cycle on Solo Offline ($79/yr) and Agency Protocol ($99/mo, $790/yr) with code BF2026, Nov 24 to Nov 30, 2026](https://grai.page) |
 | **EarlyLore** | AI product discovery and competitive intelligence across 540K+ products, website traffic histories, Design DNA, and 14 MCP tools. | [25% off Annual Year 1 (Pro $144 → $108/yr, Max $384 → $288/yr) with code `BF2026` (auto-applied), Nov 24 – Nov 30 PT](https://earlylore.com/pricing) |
 | **Bordfeed** | Job data API for agents and builders: 500k+ live jobs from company hiring pages, refreshed nightly, via REST API, webhooks, email or MCP. | [50% off your first 3 months on any plan (Pro $79 → $39.50/mo) with code `BFCM50`, new subscriptions only, Nov 27 – Dec 4](https://bordfeed.com/black-friday?utm_source=github&utm_medium=bf_list&utm_campaign=carmentune) |
+| **Ghost** | Mac app that takes over your Mac to do whole tasks across your apps from one sentence, and writes as you. | [60% off the license ($249 → $99 once), no code needed, plus an AI plan from $19/mo, until Dec 1](https://ghostformac.com/black-friday?ref=bf-carmentune) |
 
 ## 📞 Communication & VoIP
 
