@@ -77,6 +77,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Miget** | Cloud platform for apps, databases and workers on one compute plan, with no per-app fees. | [33% off a new workspace for 12 months with code `BLACKFRIDAY26`, Nov 27 - Nov 30](https://miget.com/plans?utm_source=carmentune&utm_medium=deal-list&utm_campaign=bf2026) |
 | **Faivelo** | Email hosting for your own domain with unlimited mailboxes, aliases and domains. | [80% off: $12 for the year instead of $60, first 500 new accounts, until Dec 1](https://faivelo.com/black-friday) |
 | **12happy** | Uptime monitoring and status pages. | [3 months of Pro free with code `BLACKFRIDAY`, no card, first 100 accounts, until Dec 1 (23:59 UTC)](https://www.12hpy.com/deals/black-friday?utm_source=carmentune&utm_medium=deal-list&utm_campaign=black-friday-2026) |
+| **Staxa** | Multi-tenant SaaS hosting: every customer gets an isolated app, database, subdomain and SSL, from a dashboard or one API call. | [50% off the first 3 months of Starter or Growth with code `STAXABF50` (new monthly subscriptions, first 100 customers), through Nov 30](https://staxa.dev/#pricing) |
 
 ## 🔍 SEO, Analytics & Advertising
 
